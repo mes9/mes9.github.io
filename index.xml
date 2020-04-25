@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Shashoua</title>
+    <link>https://mes9.github.io/</link>
+    <description>Recent content on Michael Shashoua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mes9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mes9.github.io/mesresearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mes9.github.io/mesresearch/</guid>
+      <description>Research Private Labels, Famous Brands, and Heterogeneous Households: Can High Ad Spending be Justified and are Households&amp;rsquo; Advertising Elasticities Stable Across Products?
+with Jeremy Fox and Stefan Hoderlein
+This paper estimates the correlation of household advertising elasticities across various brands of chocolate and laundry detergent. We leverage a unique data set consisting of matched ad views and household purchases across a two year period. This data allows us to address endogenity issues such as the correlation between ad exposure and household ad elasticities and the distinction between unobserved heterogeneity and state dependence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mes9.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mes9.github.io/research/</guid>
+      <description>Research mes
+An Equilibrium Model of Wage and Hours Determination: Labor Market Regulation in the Retail Sector A recent push to limit the discretion large retailers have over their employee&amp;rsquo;s schedules aims to increase predictability but at an unmeasured cost to market efficiency. Understanding the implications such policies have for a labor market where hours vary and employees have limited control over their own scheduling requires a model of why such jobs exist and also why individuals accept them.</description>
+    </item>
+    
+  </channel>
+</rss>
